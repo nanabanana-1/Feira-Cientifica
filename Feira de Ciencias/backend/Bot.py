@@ -114,8 +114,8 @@ async def responder(
             )
 
             return
-
-   await update.message.reply_text(
+            
+await update.message.reply_text(
 """
 🤔 Ainda não consegui responder sua dúvida.
 
